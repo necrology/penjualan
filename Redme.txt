@@ -1,0 +1,12 @@
+admin | admin
+kasir | kasir
+superadmin | superadmin
+
+====================
+level 0 = kasir
+level 1 = admin
+level 2 = superadmin
+
+====================
+status 0 = blokir
+status 1 = aktif
